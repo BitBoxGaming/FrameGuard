@@ -1,0 +1,4 @@
+Show-Fail-Messages: true
+Rotation-Fail-Message: '&6[&4Frame Guard&6] &4You cannot &crotate &6Item Frames!'
+Theft-Fail-Message: '&6[&4Frame Guard&6] &4You cannot &csteal &4the items from &6Item Frames!'
+Break-Fail-Message: '&6[&4Frame Guard&6] &4You cannot &cbreak &6Item Frames!'

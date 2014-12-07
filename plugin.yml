@@ -1,0 +1,21 @@
+name: frameguard
+main: com.gmail.bitboxgaming.frameguard.MainClass
+version: 1.0
+description: Protect your frames!
+commands:
+   fgreload:
+      description: Frameguard Reload
+      usage: /<command>
+permissions:
+    frameguard.canrotate:
+            description: Allows you to rotate Item Frames
+            default: op
+    frameguard.cansteal:
+            description: Allows you to steal the item inside the Item Frames
+            default: op
+    frameguard.canbreak:
+            description: Allows you to break Item Frames
+            default: op
+    frameguard.reload:
+            description: Allows you to reload the Frame Guard config
+            default: op
